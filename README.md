@@ -13,3 +13,9 @@ This was created as part of YouTube Video Series. Links below
 ### YouTube Channel - RaddyTheBrand
 
 [Check out my channel here](https://www.youtube.com/raddythebrand)
+
+### Website
+[www.raddy.co.uk](https://www.raddy.co.uk)
+
+### Donations
+[Via Paypal](https://www.paypal.me/RadoslavAngelov)
