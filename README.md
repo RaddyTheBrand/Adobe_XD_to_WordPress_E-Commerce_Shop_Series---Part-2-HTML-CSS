@@ -1,6 +1,8 @@
 # Adobe XD to WordPress E-Commerce Shop Series - Part 2 HTML/CSS
 This was created as part of YouTube Video Series. Links below
 
+![Screenshot](https://raddy.co.uk/wp-content/uploads/2020/06/e-commerce-ui-adobe-xd-2_compressed-768x432.jpg)
+
 ### YouTube Tutorials
 
 [Part 1 - Design](https://www.youtube.com/watch?v=hypzCBQOxns)
